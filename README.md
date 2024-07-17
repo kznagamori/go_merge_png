@@ -4,6 +4,6 @@
 ## Install
 
 ```
-go install https://github.com/kznagamori/go_merge_png@@latest
+go install github.com/kznagamori/go_merge_png@latest
 ```
 
